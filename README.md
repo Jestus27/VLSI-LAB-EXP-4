@@ -6,7 +6,7 @@
 
 # APPARATUS REQUIRED:
 
-Xilinx 14.7 Spartan6 FPGA
+Vivado 2023.1
 
 # PROCEDURE:
 1. Open Vivado: Launch Xilinx Vivado software on your computer.
