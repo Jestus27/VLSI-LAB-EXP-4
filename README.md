@@ -32,24 +32,26 @@ Vivado 2023.1
 
 # SR FLIPFLOP
 
-![301740946-77fb7f38-5649-4778-a987-8468df9ea3c3](https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/4e11d72e-7401-4fa7-9e17-977a8e5c056a)
+![301740946-77fb7f38-5649-4778-a987-8468df9ea3c3](https://github.com/Jestus27/VLSI-LAB-EXP-4/assets/167751233/45620a5a-bccc-40ce-be9b-1f1d420b37c5)
+
 
 # JK FLIPFLOP
 
-![301743103-1510e030-4ddc-42b1-88ce-d00f6f0dc7e6](https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/20ec58e1-ff7d-48ad-896f-325fd15b9978)
+![301743103-1510e030-4ddc-42b1-88ce-d00f6f0dc7e6](https://github.com/Jestus27/VLSI-LAB-EXP-4/assets/167751233/f3774bf0-c6d3-4eb6-adaf-d8b3a63220dc)
 
 # T FLIPFLOP
 
-![301743290-7a020379-efb1-4104-85ee-439d660baa08](https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/f59a93a1-c4a1-4f0d-b8ec-59afae83aaba)
+![301743290-7a020379-efb1-4104-85ee-439d660baa08](https://github.com/Jestus27/VLSI-LAB-EXP-4/assets/167751233/4b3038ee-e08c-4e22-89c7-f80eb131b33f)
 
 
 # D FLIPFLOP
 
-![301743389-dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0](https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/061329ff-7ea8-4011-88a0-a346b84b7329)
+![301743389-dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0](https://github.com/Jestus27/VLSI-LAB-EXP-4/assets/167751233/dfd74c20-4486-414c-ba63-96f7dbf7e88c)
+
 
 # COUNTER
 
-![301743514-a1fc5f68-aafb-49a1-93d2-779529f525fa](https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/48d8dfc6-1504-43fc-8178-4baca02ac055)
+![301743514-a1fc5f68-aafb-49a1-93d2-779529f525fa](https://github.com/Jestus27/VLSI-LAB-EXP-4/assets/167751233/f0160749-1602-482d-ad8c-d4cf54822170)
 
 
 # VERILOG CODE:
